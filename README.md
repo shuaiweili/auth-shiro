@@ -38,7 +38,9 @@ public class ShiroConfig extends AbstractShiroConfig {
 默认项：
 
 loginUrl:  /login
+
 unauthorizedUrl: /unAuthorized
 
 cacheManager:  EhcacheManager
+
 session cache: Redis cache
