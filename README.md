@@ -1,6 +1,6 @@
 # shiro auth
 
-使用spring对auth进行了封装，业务方只需要实现简单的方法即可实现权限的管理。
+使用spring对shiro进行了封装，业务方只需要实现简单的方法即可实现权限的管理。
 
 ```
 @Configuration
